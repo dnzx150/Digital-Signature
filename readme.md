@@ -10,20 +10,23 @@
 
 ```
 
-Digital\_Signature/
-├── app/
-│   ├── **init**.py           # Khởi tạo Flask app
-│   ├── views.py              # Xử lý logic và routing
-│   ├── templates/            # Giao diện HTML (sử dụng Bootstrap)
-│   ├── keys/                 # Chứa cặp khóa RSA
-│   ├── uploads/              # File được tải lên để ký
-│   ├── signed\_files/         # Chữ ký số đã tạo
-│   ├── received\_files/       # File và chữ ký gửi đến để xác minh
-│   └── user\_keys/            # (Dự phòng cho việc mở rộng theo người dùng)
-├── run.py                    # Điểm khởi chạy ứng dụng
-├── requirements.txt          # Danh sách thư viện Python cần cài đặt
-└── README.md                 # Tài liệu giới thiệu dự án
+<h2 align="center">🔐 Digital Signature - Ứng dụng Chữ Ký Số</h2>
 
+<pre>
+📂 Digital_Signature/
+├── 🐍 app/
+│   ├── __init__.py           # Khởi tạo Flask app
+│   ├── views.py              # Xử lý logic và routing
+│   ├── 🌐 templates/         # Giao diện HTML (sử dụng Bootstrap)
+│   ├── 🔑 keys/              # Chứa cặp khóa RSA
+│   ├── 📤 uploads/           # File được tải lên để ký
+│   ├── 📝 signed_files/      # Chữ ký số đã tạo
+│   ├── 📩 received_files/    # File và chữ ký gửi đến để xác minh
+│   └── 👤 user_keys/         # (Dự phòng cho việc mở rộng theo người dùng)
+├── 🚀 run.py                 # Điểm khởi chạy ứng dụng
+├── 📦 requirements.txt       # Danh sách thư viện Python cần cài đặt
+└── 📖 README.md              # Tài liệu giới thiệu dự án
+</pre>
 ````
 
 ## ⚙️ Tính năng
