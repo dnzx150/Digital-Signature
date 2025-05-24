@@ -74,4 +74,3 @@ http://127.0.0.1:5000
 ---
 
 🔒 **Digital Signature** giúp bạn kiểm chứng tính toàn vẹn và xác thực nguồn gốc của tệp tin thông qua chữ ký điện tử.
-```
