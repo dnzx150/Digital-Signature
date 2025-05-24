@@ -1,7 +1,3 @@
-Dưới đây là nội dung file `README.md` bằng **tiếng Việt** dành cho dự án **Digital Signature** (Chữ ký số):
-
----
-
 ```markdown
 # Digital Signature - Ứng dụng Chữ Ký Số
 
